@@ -9,7 +9,7 @@
       label-position="left"
     >
       <div class="title-container">
-        <h3 class="title">Login Form</h3>
+        <h3 class="title">Blog后台管理系统</h3>
       </div>
 
       <el-form-item prop="userName">
@@ -86,8 +86,8 @@ export default {
     }
     return {
       loginForm: {
-        userName: 'sg',
-        password: '1234'
+        userName: '',
+        password: ''
       },
       loginRules: {
         userName: [

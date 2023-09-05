@@ -81,17 +81,17 @@ export default {
       tableData: [
         {
           //赞赏数据
-          payTime: "2021-10-23",
+          payTime: "2023-09-02",
           name: "智障少女欢乐多",
           money: "188"
         },
         {
-          payTime: "2021-10-28",
+          payTime: "2023-08-30",
           name: "刺猬",
           money: "50"
         },
         {
-          payTime: "2021-11-03",
+          payTime: "2023-09-05",
           name: "迅捷小鹿",
           money: "30"
         }

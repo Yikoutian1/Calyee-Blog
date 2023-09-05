@@ -41,9 +41,9 @@
 			<div><span id="luke"></span></div>
 		</div>
 		<div class="h-information">
-      <img :src="this.$store.state.themeObj.head_portrait?this.$store.state.themeObj.head_portrait:'static/img/tou.png'" alt="">
+      <img :src="this.$store.state.themeObj.head_portrait?this.$store.state.themeObj.head_portrait:'static/img/header.jpg'" alt="">
       <h2 class="h-description">
-        {{this.$store.state.themeObj.autograph?this.$store.state.themeObj.autograph:"三更灯火五更鸡."}}
+        {{this.$store.state.themeObj.autograph?this.$store.state.themeObj.autograph:"Dream It Possible."}}
       </h2>
 		</div>
 	</div>
